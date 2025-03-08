@@ -63,7 +63,7 @@
 		ED475B232D7A91A9000B80F1 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		ED475B292D7A93C0000B80F1 /* ReminderDelay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderDelay.swift; sourceTree = "<group>"; };
 		ED475B2C2D7A9740000B80F1 /* DataRepository.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataRepository.xcdatamodel; sourceTree = "<group>"; };
-		ED8919CA2D763C5F002A9CC2 /* HollygmeawoodSports.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HollygmeawoodSports.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED8919CA2D763C5F002A9CC2 /* HollygmeaswoodSports.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HollygmeaswoodSports.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED8919DD2D763C6D002A9CC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED8919DE2D763C6D002A9CC2 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		ED8919DF2D763C6D002A9CC2 /* HollygmeaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HollygmeaApp.swift; sourceTree = "<group>"; };
@@ -145,7 +145,7 @@
 		ED8919CB2D763C5F002A9CC2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ED8919CA2D763C5F002A9CC2 /* HollygmeawoodSports.app */,
+				ED8919CA2D763C5F002A9CC2 /* HollygmeaswoodSports.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -253,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ED8919C92D763C5F002A9CC2 /* HollygmeawoodSports */ = {
+		ED8919C92D763C5F002A9CC2 /* HollygmeaswoodSports */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED8919D82D763C60002A9CC2 /* Build configuration list for PBXNativeTarget "HollygmeawoodSports" */;
+			buildConfigurationList = ED8919D82D763C60002A9CC2 /* Build configuration list for PBXNativeTarget "HollygmeaswoodSports" */;
 			buildPhases = (
 				ED8919C62D763C5F002A9CC2 /* Sources */,
 				ED8919C72D763C5F002A9CC2 /* Frameworks */,
@@ -265,11 +265,11 @@
 			);
 			dependencies = (
 			);
-			name = HollygmeawoodSports;
+			name = HollygmeaswoodSports;
 			packageProductDependencies = (
 			);
 			productName = Training;
-			productReference = ED8919CA2D763C5F002A9CC2 /* HollygmeawoodSports.app */;
+			productReference = ED8919CA2D763C5F002A9CC2 /* HollygmeaswoodSports.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -287,7 +287,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ED8919C52D763C5E002A9CC2 /* Build configuration list for PBXProject "Hollygmea" */;
+			buildConfigurationList = ED8919C52D763C5E002A9CC2 /* Build configuration list for PBXProject "Hollygmeas" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -301,7 +301,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ED8919C92D763C5F002A9CC2 /* HollygmeawoodSports */,
+				ED8919C92D763C5F002A9CC2 /* HollygmeaswoodSports */,
 			);
 		};
 /* End PBXProject section */
@@ -560,7 +560,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ED8919C52D763C5E002A9CC2 /* Build configuration list for PBXProject "Hollygmea" */ = {
+		ED8919C52D763C5E002A9CC2 /* Build configuration list for PBXProject "Hollygmeas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ED8919D62D763C60002A9CC2 /* Debug */,
@@ -569,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED8919D82D763C60002A9CC2 /* Build configuration list for PBXNativeTarget "HollygmeawoodSports" */ = {
+		ED8919D82D763C60002A9CC2 /* Build configuration list for PBXNativeTarget "HollygmeaswoodSports" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ED8919D92D763C60002A9CC2 /* Debug */,

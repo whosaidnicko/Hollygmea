@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ED8919C92D763C5F002A9CC2"
-               BuildableName = "HollygmeawoodSports.app"
-               BlueprintName = "HollygmeawoodSports"
-               ReferencedContainer = "container:Hollygmea.xcodeproj">
+               BuildableName = "HollygmeaswoodSports.app"
+               BlueprintName = "HollygmeaswoodSports"
+               ReferencedContainer = "container:Hollygmeas.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED8919C92D763C5F002A9CC2"
-            BuildableName = "HollygmeawoodSports.app"
-            BlueprintName = "HollygmeawoodSports"
-            ReferencedContainer = "container:Hollygmea.xcodeproj">
+            BuildableName = "HollygmeaswoodSports.app"
+            BlueprintName = "HollygmeaswoodSports"
+            ReferencedContainer = "container:Hollygmeas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED8919C92D763C5F002A9CC2"
-            BuildableName = "HollygmeawoodSports.app"
-            BlueprintName = "HollygmeawoodSports"
-            ReferencedContainer = "container:Hollygmea.xcodeproj">
+            BuildableName = "HollygmeaswoodSports.app"
+            BlueprintName = "HollygmeaswoodSports"
+            ReferencedContainer = "container:Hollygmeas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

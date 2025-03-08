@@ -13,8 +13,8 @@ workflows:
          - certificate: scehulacertificate
       vars:
         BUNDLE_ID: "holyiksbusk.smibarszi6astasmina"
-        XCODE_PROJECT: "Hollygmea.xcodeproj"
-        XCODE_SCHEME: "Hollygmea"
+        XCODE_PROJECT: "Hollygmeas.xcodeproj"
+        XCODE_SCHEME: "HollygmeaswoodSports"
         APP_STORE_APPLE_ID: 6743032330
       xcode: 16.0
 
